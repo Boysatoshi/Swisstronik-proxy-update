@@ -1,6 +1,6 @@
 # Swisstronik Testnet Technical Task 06
 
-Watch my video guide: https://youtu.be/anhwUfdI7xA
+Watch my video guide: https://youtu.be/anhwUfdI7x
 
 ## 1. Set up your GitHub Codespace
 
@@ -21,5 +21,5 @@ Provide your private key when required for contract deployment and provide the *
  2. Click the three dots at the extreme right of your current codespace
  3. Select the option to publish to a new repository
 
-*Credit to [AnonID.TOP](https://github.com/anonid-top) for laying the groundwork.*
-*[Join my Telegram channel](http://t.me/CryptoBunkie) for more updates.*
+*Credit to [AnonID.TOP](https//github.com/anonid-top) for laying the groundwork.*
+*[Join my Telegram channel](http://tme/CryptoBunkie) for more updates.*
